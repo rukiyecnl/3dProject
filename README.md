@@ -1,4 +1,5 @@
 # Karakter adı - Rukii
+## Dosyaları blender uygulamasında açınız
 
 ![Design preview for the Interactive card details form coding challenge](./img/ruki_front.png)
-![Design preview for the Interactive card details form coding challenge](./img/rukiiVideo.mp4)
+![Karakter animasyon videoları](./img/rukiiVideo.mp4)
